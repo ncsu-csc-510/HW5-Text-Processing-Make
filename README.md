@@ -1,6 +1,5 @@
 # HW5-Text-Processing-Make
 
-<img alt="Repository: HW5-Text-Processing-Make" src="https://img.shields.io/badge/Repository-HW5-Text-Processing-Make-red">
 ## Text Processing with Make
 
 This repository contains scripts and a Makefile to process text data. The steps include:
